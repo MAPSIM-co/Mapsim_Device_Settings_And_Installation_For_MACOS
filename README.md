@@ -49,6 +49,9 @@ Check Version :
 
     python3 --version
 
+Go to **Version2** Folder and Then Follwing under Steps:
+
+
 ## Step 1: Install Required Libraries:
 
 -Install the required Python libraries by running these commands:

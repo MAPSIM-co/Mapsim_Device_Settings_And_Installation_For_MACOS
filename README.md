@@ -57,10 +57,28 @@ Go to **Version2** Folder and Then Follwing under Steps:
 -Install the required Python libraries by running these commands:
 
     pip3 install gitpython
+
+  Or
+
+    pip install gitpython
     
 And
 
     pip3 install python-dotenv
+    
+  Or
+  
+    pip install python-dotenv
+
+And
+
+    pip3 install pyserial
+    
+  Or
+  
+    pip install pyserial
+    
+
 
 ## Step 2: Run the Installer Script
 
